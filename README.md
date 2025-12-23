@@ -19,7 +19,7 @@ A collaborative team player passionate about creating seamless digital experienc
 
 ## 👨‍💻 About Me
 - 🔭 Currently working on **front-end and full-stack projects**
-- 🌱 Learning **MERN Stack** to strengthen full-stack development skills
+- 🌱 Learning **MERN Stack**
 - 🎯 Focused on clean UI, performance, and best coding practices
 - 📫 Reach me at **ajitkumarraivq@gmail.com**
 
@@ -30,8 +30,8 @@ A collaborative team player passionate about creating seamless digital experienc
   <a href="https://www.linkedin.com/in/ajit-kumar-rai07/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://fb.com/profile.php?id=100072482932331" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+  <a href="https://twitter.com/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
 </p>
 

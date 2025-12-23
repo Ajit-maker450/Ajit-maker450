@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ajit Rai</h1>
-<h3 align="center">I am Ajit Rai from Bihar, a passionate developer with a strong foundation in HTML, CSS, and JS. During my studies, I honed my skills in front-end development, building interactive websites and web applications using the latest technologies. I am adept at collaborating with teams to create user-friendly, responsive designs that deliver an optimal experience across devices..</h3>
+<h1 align="center">Hi 👋, I'm Ajit kumar Rai</h1>
+<h3 align="center">Ajit Kumar Rai | Front-End Developer
+Passionate developer from Bihar with a strong foundation in HTML, CSS, and JavaScript.
+Experienced in building interactive, responsive websites and web applications using modern front-end technologies.
+A collaborative team player focused on creating user-friendly designs that deliver seamless experiences across devices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajit-maker450&label=Profile%20views&color=0e75b6&style=flat" alt="ajit-maker450" /> </p>
 

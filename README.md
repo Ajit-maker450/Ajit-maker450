@@ -101,7 +101,7 @@ A full-stack e-learning and digital library platform designed to provide users w
 
 ---
 
-### 🏥 Healthcare Appointment Queue & Priority Management System
+### 🏥 Healthcare Appointment Queue & Priority Management System(MediQueue)
 
 A backend-driven healthcare appointment system that manages patient queues based on **severity and arrival time**, helping prioritize patients efficiently.
 

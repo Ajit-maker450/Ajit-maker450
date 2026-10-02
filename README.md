@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Ajit%20Kumar%20Rai!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=%20I'm%20Ajit%20Kumar%20Rai&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%7C%20React.js%20%7C%20Node.js&descAlignY=55&descAlign=50" />
 
 <br>
 
